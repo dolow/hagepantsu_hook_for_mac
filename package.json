@@ -1,0 +1,11 @@
+{
+  "name": "hagepantsu_hook_for_mac",
+  "version": "1.0.0",
+  "description": "let me survive !!",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "open https://www.youtube.com/watch?v=CUX09E37PUE"
+  },
+  "author": "Smith",
+  "license": "MIT"
+}
